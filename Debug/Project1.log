@@ -1,0 +1,6 @@
+﻿  소스.c
+C:\Users\t9904\source\repos\Project1\Project1\소스.c(99,10): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\t9904\source\repos\Project1\Project1\소스.c(223,17): warning C4101: 'user' :참조되지 않은 지역 변수입니다.
+C:\Users\t9904\source\repos\Project1\Project1\소스.c(365,13): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\t9904\source\repos\Project1\Project1\소스.c(469): warning C4717: 'loginmenu': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  Project1.vcxproj -> C:\Users\t9904\source\repos\Project1\Debug\Project1.exe
